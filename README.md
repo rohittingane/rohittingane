@@ -70,6 +70,18 @@ A structured hands-on learning journey where I practice Linux, AWS, Git, Docker,
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohittingane&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohittingane&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
 ## 📊 GitHub Streak
 
 <p align="center">
@@ -79,6 +91,13 @@ A structured hands-on learning journey where I practice Linux, AWS, Git, Docker,
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohittingane&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
 
 ## 📫 Connect With Me
 
