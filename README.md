@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Rohit+Tingane;Production+Support+Engineer;Learning+DevOps+Through+Hands-on+Projects;Linux+|+AWS+|+Git+|+Docker;Currently+Learning+Kubernetes+%26+Terraform" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Rohit Tingane</h1>
 
 <h3 align="center">
-Production Support Engineer | Learning DevOps One Project at a Time 🚀
+Production Support Engineer | Learning DevOps Through Hands-on Projects 🚀
 </h3>
 
 <p align="center">
-Building hands-on projects in Linux, AWS, Docker and Kubernetes while transitioning into DevOps.
+Building practical skills in Linux, AWS, Docker and Cloud technologies while transitioning into DevOps.
 </p>
 
 ---
@@ -17,31 +13,20 @@ Building hands-on projects in Linux, AWS, Docker and Kubernetes while transition
 ## 👨‍💻 About Me
 
 - 💼 4+ Years of experience in Production Support
-- 🌱 Currently learning DevOps through real-world projects
-- 🐧 Comfortable working with Linux
-- ☁️ Learning AWS services through hands-on practice
-- 🐳 Exploring Docker and containerization
-- 🔄 Learning CI/CD with GitHub Actions
+- 🐧 Comfortable working with Linux Administration
+- ☁️ Learning AWS through hands-on projects
+- 🐳 Exploring Docker and Containerization
+- 🔄 Learning CI/CD using GitHub Actions
 - ☸️ Currently learning Kubernetes
 - ⚙️ Currently learning Terraform
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Complete 90 Days of DevOps
-- 🚀 Build real-world DevOps projects
-- ☁️ Master AWS fundamentals
-- ☸️ Learn Kubernetes
-- ⚙️ Learn Terraform
-- 💼 Transition into a DevOps Engineer role
+- 📖 Documenting my DevOps journey publicly on GitHub
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,aws,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,aws,docker,vscode" />
 </p>
 
 ---
@@ -49,44 +34,76 @@ Building hands-on projects in Linux, AWS, Docker and Kubernetes while transition
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,githubactions,jenkins" />
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,githubactions,jenkins" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2026 Goals
+
+- ✅ Complete 90 Days of DevOps
+- 🚀 Build real-world DevOps projects
+- ☁️ Strengthen AWS fundamentals
+- ☸️ Gain hands-on Kubernetes experience
+- ⚙️ Learn Infrastructure as Code with Terraform
+- 💼 Transition into a DevOps Engineer role
+
+---
+
+## 🚀 Featured Project
+
+### 📘 90 Days of DevOps
+
+A structured hands-on learning journey where I practice Linux, AWS, Git, Docker, CI/CD and DevOps concepts while documenting everything on GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohittingane&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohittingane&theme=github_dark&hide_border=true" />
-</p>
+<a href="https://github.com/rohittingane/90DaysOfDevOps">
+<img src="https://img.shields.io/badge/Repository-90%20Days%20of%20DevOps-blue?style=for-the-badge&logo=github"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohittingane&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
+## 📊 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohittingane&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
 ---
 
-# 🚀 Featured Project
+## 📫 Connect With Me
 
-## 📘 90 Days of DevOps
+<p align="left">
 
-A hands-on learning journey where I document my daily DevOps practice, Linux commands, AWS, Docker, Git, and DevOps concepts.
+<a href="https://www.linkedin.com/in/rohit-tingane/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-[![90 Days of DevOps](https://img.shields.io/badge/Repository-90%20Days%20of%20DevOps-blue?style=for-the-badge&logo=github)](https://github.com/rohittingane/90DaysOfDevOps)
+&nbsp;&nbsp;
 
-### 🔧 Technologies Used
+<a href="mailto:rtingane2611@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-- Linux
+</p>
+
+---
+
+## 💡 Current Focus
+
+- Linux Administration
+- AWS Fundamentals
+- Docker (Learning)
 - Git & GitHub
-- AWS
-- Docker
-- Shell Scripting
-- GitHub Actions (Learning)
+- GitHub Actions
 - Kubernetes (Learning)
 - Terraform (Learning)
+
+---
+
+> 🚀 **Learning in public, building real projects, and improving one day at a time.**
