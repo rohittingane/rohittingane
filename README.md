@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./banner.png.png"/>
+<img src="./banner.png.png" width="100%" alt="Rohit Tingane Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohit Tingane</h1>
@@ -111,3 +111,7 @@ A structured hands-on learning journey where I practice Linux, AWS, Git, Docker,
 ---
 
 > 🚀 **Learning in public, building real projects, and improving one day at a time.**
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rohittingane&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
