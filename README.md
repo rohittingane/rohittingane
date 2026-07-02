@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit Tingane</h1>
 
-<!--
-**rohittingane/rohittingane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Production Support Engineer | Learning DevOps One Project at a Time 🚀
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building hands-on projects in Linux, AWS, Docker and Kubernetes while transitioning into DevOps.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 4+ Years of experience in Production Support
+- 🌱 Currently learning DevOps through real-world projects
+- 🐧 Comfortable working with Linux
+- ☁️ Learning AWS services through hands-on practice
+- 🐳 Exploring Docker and containerization
+- 🔄 Learning CI/CD with GitHub Actions
+- ☸️ Currently learning Kubernetes
+- ⚙️ Currently learning Terraform
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Complete 90 Days of DevOps
+- 🚀 Build real-world DevOps projects
+- ☁️ Master AWS fundamentals
+- ☸️ Learn Kubernetes
+- ⚙️ Learn Terraform
+- 💼 Transition into a DevOps Engineer role
