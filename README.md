@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Rohit+Tingane;Production+Support+Engineer;Learning+DevOps+Through+Hands-on+Projects;Linux+|+AWS+|+Git+|+Docker;Currently+Learning+Kubernetes+%26+Terraform" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rohit Tingane</h1>
 
 <h3 align="center">
