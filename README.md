@@ -67,3 +67,23 @@ Building hands-on projects in Linux, AWS, Docker and Kubernetes while transition
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohittingane&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### 📘 90 Days of DevOps
+
+A hands-on learning journey where I document my daily DevOps practice, commands, projects, and real-world concepts.
+
+### 🔧 Technologies Used
+- Linux
+- Git & GitHub
+- AWS
+- Docker
+- Shell Scripting
+- GitHub Actions (Learning)
+- Kubernetes (Learning)
+- Terraform (Learning)
+
+👉 **Repository:** https://github.com/rohittingane/90DaysOfDevOps
