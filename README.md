@@ -70,13 +70,18 @@ Building hands-on projects in Linux, AWS, Docker and Kubernetes while transition
 
 ---
 
-## 🚀 Featured Project
+---
 
-### 📘 90 Days of DevOps
+# 🚀 Featured Project
 
-A hands-on learning journey where I document my daily DevOps practice, commands, projects, and real-world concepts.
+## 📘 90 Days of DevOps
+
+A hands-on learning journey where I document my daily DevOps practice, Linux commands, AWS, Docker, Git, and DevOps concepts.
+
+[![90 Days of DevOps](https://img.shields.io/badge/Repository-90%20Days%20of%20DevOps-blue?style=for-the-badge&logo=github)](https://github.com/rohittingane/90DaysOfDevOps)
 
 ### 🔧 Technologies Used
+
 - Linux
 - Git & GitHub
 - AWS
@@ -85,5 +90,3 @@ A hands-on learning journey where I document my daily DevOps practice, commands,
 - GitHub Actions (Learning)
 - Kubernetes (Learning)
 - Terraform (Learning)
-
-👉 **Repository:** https://github.com/rohittingane/90DaysOfDevOps
