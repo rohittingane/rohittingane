@@ -35,3 +35,19 @@ Building hands-on projects in Linux, AWS, Docker and Kubernetes while transition
 - ☸️ Learn Kubernetes
 - ⚙️ Learn Terraform
 - 💼 Transition into a DevOps Engineer role
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,aws,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,githubactions,jenkins" />
+</p>
